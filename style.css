@@ -1,0 +1,9 @@
+@media screen and (min-width: 426px) {
+  body {
+    background-color: rosybrown;
+  }
+
+  .section {
+    background-color: rgba(238, 56, 56, 0.65);
+  }
+}
